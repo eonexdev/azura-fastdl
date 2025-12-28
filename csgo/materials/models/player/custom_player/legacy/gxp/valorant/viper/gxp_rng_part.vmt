@@ -1,0 +1,37 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player\custom_player\legacy\gxp\valorant\viper\gxp_rng_part"
+    	"$bumpmap" "models\player\custom_player\legacy\gxp\valorant\viper\gxp_rng_part_n"
+	"$alphatest" "1"
+
+	"$phong" "1"
+	"$phongboost" ".2"
+	"$phongexponent" "50"
+	"$phongfresnelranges" "[.8 .8 .8]"
+
+	"$frame" "1000"
+	"$rand" "0"
+	"$zero" "0"
+	"$fh" "500"
+
+"Proxies"
+  {
+      	"EntityRandom"
+       	{
+           	"scale" "2.99"
+           	"resultVar" "$rand"
+       	}
+
+	"LessOrEqual"
+     	{
+          	  "LessEqualVar" "$frame"
+          	  "greaterVar" "$rand"
+          	  "srcVar1" "$frame"
+           	  "srcVar2" "$fh"            
+          	  "resultVar" "$frame"    
+        }
+   }
+}
+
+
+

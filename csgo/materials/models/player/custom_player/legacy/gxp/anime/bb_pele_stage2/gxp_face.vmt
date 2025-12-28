@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\custom_player\legacy\gxp\anime\bb_pele_stage2\gxp_face"
+
+	"$phong" "1"
+	"$phongboost" "0.2" 	
+	"$phongexponent" "50"	
+	"$phongfresnelranges" "[0.5 0.5 0.5]"
+	"$phongalbedotint" "1"
+
+	"$lightwarptexture" "models\player\custom_player\legacy\gxp\anime\bb_pele_stage2\gxp_lightwarp"
+}

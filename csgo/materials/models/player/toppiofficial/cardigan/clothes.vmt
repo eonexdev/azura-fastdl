@@ -1,0 +1,13 @@
+"VertexlitGeneric"//"character"
+{
+	"$basetexture" "models/player/toppiofficial/cardigan/clothes"
+	"$nocull" 1
+	"$nodecal" 1
+	
+	"$lightwarptexture" 	"models/player/toppiofficial/shared/shader/simple_shader"
+	
+	"$phong"				1
+	"$halflambert" 			1
+	"$phongfresnelranges" 	"[0 0 1]"
+	"$phongexponent"		30
+}

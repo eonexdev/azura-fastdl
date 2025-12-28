@@ -1,0 +1,8 @@
+"UnLitGeneric"
+{
+	"$basetexture" "models\player\custom_player\legacy\gxp\valorant\brimstone\csgo_body"
+    "$bumpmap" "models\player\custom_player\legacy\gxp\valorant\brimstone\csgo_body_n"
+	"$nodecal" "1"
+}
+
+

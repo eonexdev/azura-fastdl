@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\custom_player\legacy\gxp\anime\sakura_miko\gxp_main1"
+	"$nocull" "1"	
+
+	"$phong" "1"
+	"$phongboost"	".1"
+	"$phongexponent" "50"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[.5 .5 .5]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "10"
+	"$rimlightboost"          ".4"
+
+	"$lightwarptexture" "models\player\custom_player\legacy\gxp\anime\sakura_miko\gxp_lightwarp"
+}

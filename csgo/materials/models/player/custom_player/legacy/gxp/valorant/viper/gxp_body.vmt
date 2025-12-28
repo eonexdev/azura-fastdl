@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player\custom_player\legacy\gxp\valorant\viper\gxp_body"
+    	"$bumpmap" "models\player\custom_player\legacy\gxp\valorant\viper\gxp_body_n"
+
+	"$phong" "1"
+	"$phongboost" ".5"
+	"$phongexponent" "50"
+	"$phongfresnelranges" "[.2 .8 .7]"
+}
+
+

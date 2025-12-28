@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player\custom_player\legacy\gxp\valorant\brimstone\csgo_stim_pack"
+    "$bumpmap" "models\player\custom_player\legacy\gxp\valorant\brimstone\csgo_stim_pack_n"
+
+	"$phong" "1"
+	"$phongboost" ".5"
+	"$phongexponent" "50"
+	"$phongfresnelranges" "[.04 .03 .02]"
+}
+
+

@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/custom_player/kolka/Neon/body"
+	$Bumpmap  "models/player/custom_player/kolka/Neon/body_n"
+      $phong  5
+    $phongexponent        5
+    $phongboost        3.0
+    $phongfresnelranges    "[0 0.5 1]"
+    $phongAlbedoTint 1 
+
+    $rimlight               5
+    $rimlightexponent       15
+    $rimlightboost          0.20
+    $rimlightmask          5
+
+}
+

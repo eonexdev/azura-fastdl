@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\custom_player\legacy\gxp\anime\sakura_miko\gxp_main2"
+
+	"$lightwarptexture" "models\player\custom_player\legacy\gxp\anime\sakura_miko\gxp_lightwarp"
+}

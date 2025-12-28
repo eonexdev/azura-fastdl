@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\custom_player\legacy\gxp\anime\akai_haato\gxp_eye"
+	"$nodecal" "1"
+
+	"$lightwarptexture" "models\player\custom_player\legacy\gxp\anime\akai_haato\gxp_lightwarp"
+}

@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+	$basetexture "models/player/toppiofficial/selena2/selena2_eye"
+	$bumpmap "models/player/toppiofficial/shared/shader/normal"
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.33 0.44 0.49]"
+	$envmapfresnel 0.95
+
+	$phong 1
+	$phongfresnelranges "[0.05 0.03 1]"
+	$phongexponent 1024
+	$phongboost 10
+
+	$nodecal 1
+}

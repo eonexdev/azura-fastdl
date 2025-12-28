@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\custom_player\legacy\gxp\anime\applejack\gxp_eye"
+	"$nodecal" "1"
+
+	"$phong" "1"
+	"$phongboost"	".05"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[.1 .1 5]"
+
+	"$lightwarptexture" "models\player\custom_player\legacy\gxp\anime\applejack\gxp_lightwarp"
+}

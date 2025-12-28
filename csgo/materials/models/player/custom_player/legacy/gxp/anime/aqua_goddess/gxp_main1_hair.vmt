@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\custom_player\legacy\gxp\anime\aqua_goddess\gxp_main1"
+
+	"$lightwarptexture" "models\player\custom_player\legacy\gxp\anime\aqua_goddess\gxp_lightwarp"
+}

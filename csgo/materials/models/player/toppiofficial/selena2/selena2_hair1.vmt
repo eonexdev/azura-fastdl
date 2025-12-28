@@ -1,0 +1,22 @@
+VertexLitGeneric
+{
+	$basetexture "models/player/toppiofficial/selena2/selena2_hair1"
+	$bumpmap "models/player/toppiofficial/shared/shader/normal"
+
+	$lightwarptexture "models/player/toppiofficial/selena2/selena2_celshade"
+
+	$phong 1
+	$phongfresnelranges "[0.3 0.3 1]"
+	$phongtint "[0.75 0.79 0.80]"
+	$phongexponent 80
+	$phongboost 0.15
+
+	$emissiveblendenabled 1
+	$emissiveblendtexture "models/player/toppiofficial/shared/shader/null"
+	$emissiveblendbasetexture "models/player/toppiofficial/selena2/selena2_hair1_mask"
+	$emissiveblendtint "[0.04 0.16 0.98]"
+	$emissiveblendstrength 1.01
+	$emissiveblendscrollvector "[1 0]"
+
+	$nodecal 1
+}

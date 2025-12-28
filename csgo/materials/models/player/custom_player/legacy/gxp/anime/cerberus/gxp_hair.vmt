@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\custom_player\legacy\gxp\anime\cerberus\gxp_hair"
+
+	"$phong" "1"
+	"$phongboost" "0.5"
+	"$phongexponent" "70"
+	"$phongfresnelranges" "[.8 .8 8]"
+
+	"$lightwarptexture" "models\player\custom_player\legacy\gxp\anime\cerberus\gxp_lightwarp"
+}

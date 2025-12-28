@@ -1,0 +1,16 @@
+<font color='#ffc000'>
+Drag2Death presents: Awp_Lego_2016</font>
+
+Shoot players with your awesome sniper rifle,
+or you can always use your deagle or knife.
+<font color='#CC2900'>Check out our website @ www.drag2death.com
+Drag2Death is an elite e-sports community powered by seventhwonder.in</font>
+
+<font color='#ed2d26'>Credits:</font>
+<font color='#0dff35'>Matr!X7689 - Map Designer</font>
+<font color='#CCFF66'>manolo1986 - Made base map (awp_lego_2011)</font>
+<font color='#7003fb'>Arman Ossi Loko - Radar</font>
+<font color='#76b6da'>Akshit Saklani - 3D Skybox</font>
+<font color='#fffff0'>Drag2Death Team - Ideas</font>
+<font color='#fd7214'>BoHaRoX - Lego Textures</font>
+<font color='#bee5d9'>The Razzer App - 3D Skybox Textures</font>

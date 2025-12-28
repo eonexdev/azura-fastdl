@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player\custom_player\legacy\gxp\valorant\viper\gxp_rng_part"
+    	"$bumpmap" "models\player\custom_player\legacy\gxp\valorant\viper\gxp_rng_part_n"
+	"$frame" "0"
+
+	"$phong" "1"
+	"$phongboost" ".2"
+	"$phongexponent" "20"
+	"$phongfresnelranges" "[.8 .8 .8]"
+}
+
+

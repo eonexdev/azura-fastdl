@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player\custom_player\legacy\gxp\valorant\brimstone\csgo_body"
+    "$bumpmap" "models\player\custom_player\legacy\gxp\valorant\brimstone\csgo_body_n"
+
+	"$phong" "1"
+	"$phongboost" ".05"
+	"$phongexponent" "50"
+	"$phongfresnelranges" "[.8 .8 .8]"
+	
+	"$rimlight"               "1"
+	"$rimlightexponent"       "50"
+	"$rimlightboost"          ".5"	
+}
+
+

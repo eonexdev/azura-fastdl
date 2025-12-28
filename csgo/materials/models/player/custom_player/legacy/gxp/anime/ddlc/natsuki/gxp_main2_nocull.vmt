@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\custom_player\legacy\gxp\anime\ddlc\natsuki\gxp_main2"
+	"$nocull" "1"
+
+	"$lightwarptexture" "models\player\custom_player\legacy\gxp\anime\ddlc\natsuki\gxp_lightwarp"
+}

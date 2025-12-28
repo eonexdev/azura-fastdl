@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\custom_player\legacy\gxp\anime\aqua_goddess\gxp_main2"
+	"$nocull" "1"	
+	"$nodecal" "1"
+	"$translucent" "1"
+
+	"$phong" "1"
+	"$phongboost"	".3"
+	"$phongexponent" "30"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[.5 .5 .5]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "10"
+	"$rimlightboost"          ".4"
+
+	"$lightwarptexture" "models\player\custom_player\legacy\gxp\anime\aqua_goddess\gxp_lightwarp"
+}

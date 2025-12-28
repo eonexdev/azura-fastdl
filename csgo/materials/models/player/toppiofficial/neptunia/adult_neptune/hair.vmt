@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture "models/player/toppiofficial/neptunia/adult_neptune/hair"
+
+	$lightwarptexture "models/player/toppiofficial/public/lightwarp"
+
+	$nodecal 1
+}

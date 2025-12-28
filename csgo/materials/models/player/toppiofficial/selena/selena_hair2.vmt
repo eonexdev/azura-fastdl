@@ -1,0 +1,9 @@
+UnlitGeneric
+{
+	$basetexture "models/player/toppiofficial/selena/selena_hair"
+	$bumpmap "models/player/toppiofficial/shared/shader/normal"
+
+	$nodecal 1
+
+	$color2 "[0.40 1.55 2]"
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\custom_player\legacy\gxp\anime\cerberus\gxp_skin"
+	"$nodecal" "1"
+
+	"$lightwarptexture" "models\player\custom_player\legacy\gxp\anime\cerberus\gxp_lightwarp"
+}

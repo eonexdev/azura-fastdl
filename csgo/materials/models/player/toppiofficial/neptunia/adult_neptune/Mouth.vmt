@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture "models/player/toppiofficial/neptunia/adult_neptune/mouth"
+
+	$lightwarptexture "models/player/toppiofficial/public/lightwarp"
+
+	$alphatest 1
+
+	$nodecal 1
+}

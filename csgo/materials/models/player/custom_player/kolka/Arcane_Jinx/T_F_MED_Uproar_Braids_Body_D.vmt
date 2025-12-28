@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/custom_player/kolka/Arcane_Jinx/T_F_MED_Uproar_Braids_Body_D"
+	"$bumpmap" "models/player/custom_player/kolka/Arcane_Jinx/T_F_MED_Uproar_Braids_Body_N"
+}

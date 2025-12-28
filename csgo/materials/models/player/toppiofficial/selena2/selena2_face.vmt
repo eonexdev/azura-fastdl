@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$basetexture "models/player/toppiofficial/selena2/selena2_face"
+	$bumpmap "models/player/toppiofficial/shared/shader/normal"
+
+	$lightwarptexture "models/player/toppiofficial/selena2/selena2_celshade"
+
+	$nodecal 1
+}

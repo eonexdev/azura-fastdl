@@ -1,0 +1,19 @@
+VertexLitGeneric
+{
+	$basetexture "models/player/toppiofficial/selena2/selena2_cloth2"
+	$bumpmap "models/player/toppiofficial/selena2/selena2_cloth2_n"
+
+	$lightwarptexture "models/player/toppiofficial/selena2/selena2_celshade"
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.35 0.35 0.35]"
+	$envmapfresnel 0.85
+
+	$phong 1
+	$phongfresnelranges "[0.1 0.1 1]"
+	$phongexponent 55
+	$phongboost 5
+
+	$nodecal 1
+}

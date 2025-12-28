@@ -1,0 +1,25 @@
+VertexLitGeneric
+{
+	$basetexture "models/player/toppiofficial/selena2/selena2_crystal"
+	$bumpmap "models/player/toppiofficial/selena2/selena2_crystal_n"
+
+	$lightwarptexture "models/player/toppiofficial/selena2/selena2_celshade"
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.15 0.70 0.91]"
+	$envmapfresnel 0.25
+
+	$phong 1
+	$phongfresnelranges "[0.1 0.1 1]"
+	$phongexponent 55
+	$phongboost 5
+
+	$emissiveblendenabled 1
+	$emissiveblendtexture "models/player/toppiofficial/shared/shader/null"
+	$emissiveblendbasetexture "models/player/toppiofficial/selena2/selena2_crystal"
+	$emissiveblendtint "[0.85 0.85 0.85]"
+	$emissiveblendstrength 1.01
+	$emissiveblendscrollvector "[0 0]"
+
+	$nodecal 1
+}

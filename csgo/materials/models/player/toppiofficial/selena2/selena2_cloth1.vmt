@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+	$basetexture "models/player/toppiofficial/selena2/selena2_cloth1"
+	$bumpmap "models/player/toppiofficial/selena2/selena2_cloth1_n"
+
+	$lightwarptexture "models/player/toppiofficial/selena2/selena2_celshade"
+
+	$nocull 1
+
+	$phong 1
+	$phongfresnelranges "[0.3 0.46 1]"
+	$phongexponent 145
+	$phongboost 5
+
+	$nodecal 1
+}

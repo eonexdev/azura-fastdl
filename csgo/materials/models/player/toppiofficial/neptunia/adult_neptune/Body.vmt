@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+	$basetexture "models/player/toppiofficial/neptunia/adult_neptune/body"
+
+	$lightwarptexture "models/player/toppiofficial/public/lightwarp"
+
+	$phong 1
+	$phongfresnelranges "[0 0 0]"
+	$phongexponent 5
+	$phongboost 0
+
+	$selfillum 1
+	$selfillummask "models/player/toppiofficial/neptunia/adult_neptune/body_selfillum"
+	$selfillumtint "[1.2 1.2 1.2]"
+
+	$nodecal 1
+}
